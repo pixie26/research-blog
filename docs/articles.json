@@ -1,0 +1,106 @@
+[
+  {
+    "category": "sell-side",
+    "date": "2026-10-15",
+    "title": "JPM研究简报｜2026年10月15日",
+    "url": "https://pixie26.github.io/research-blog/articles/sell-side/2026-10-15/",
+    "revision": 1,
+    "body_sha256": "3affa912f57b9641805d16fdd617e7a5f57500c56f6c4544a6b7776dafa91665"
+  },
+  {
+    "category": "daily",
+    "date": "2026-10-15",
+    "title": "市场早报｜2026年10月15日",
+    "url": "https://pixie26.github.io/research-blog/articles/daily/2026-10-15/",
+    "revision": 1,
+    "body_sha256": "b5f0708f4627ad39ce8617047c05355b7a1a439537fa7e1a04c0033520d480a9"
+  },
+  {
+    "category": "sell-side",
+    "date": "2026-10-14",
+    "title": "10月13日亚太股权衍生品策略扩展解读",
+    "url": "https://pixie26.github.io/research-blog/articles/sell-side/2026-10-14/apac-equity-derivatives/",
+    "revision": 1,
+    "body_sha256": "dfc4c19fd51a85b206d6624441c3cb6c99f9e84c40f8ed8819f63976d3d8bbc3"
+  },
+  {
+    "category": "sell-side",
+    "date": "2026-10-14",
+    "title": "JPM研究简报｜2026年10月14日",
+    "url": "https://pixie26.github.io/research-blog/articles/sell-side/2026-10-14/",
+    "revision": 1,
+    "body_sha256": "ff9a454b1a6fb64cf4c2df4505e8ff275af1edee2ec8b5560c883191f0f985c1"
+  },
+  {
+    "category": "buy-side",
+    "date": "2026-10-14",
+    "title": "买方研究简报｜2026年10月14日",
+    "url": "https://pixie26.github.io/research-blog/articles/buy-side/2026-10-14/",
+    "revision": 1,
+    "body_sha256": "fb37a8d5cebe3c19535d1c1397a7b7f733049dfefe3864908ddb7c86284e2bdb"
+  },
+  {
+    "category": "daily",
+    "date": "2026-10-14",
+    "title": "指数平静，内部风险仍在释放",
+    "url": "https://pixie26.github.io/research-blog/articles/daily/2026-10-14/",
+    "revision": 1,
+    "body_sha256": "b986b46419aac3e8261e19a0bf111871f379ca12d0f081e0f087eb95393f673a"
+  },
+  {
+    "category": "sell-side",
+    "date": "2026-10-13",
+    "title": "配置买盘与趋势信号，仍有分歧",
+    "url": "https://pixie26.github.io/research-blog/articles/sell-side/2026-10-13/",
+    "revision": 1,
+    "body_sha256": "ed365ae8b5588a872297d4901cbaf7cf397a9d9a9a836bfac23175c62d748fed"
+  },
+  {
+    "category": "buy-side",
+    "date": "2026-10-13",
+    "title": "在精选增长与锁定收入之间",
+    "url": "https://pixie26.github.io/research-blog/articles/buy-side/2026-10-13/",
+    "revision": 1,
+    "body_sha256": "86ed76ab8863866de504207029eb2d08af8bf3fcb86a14e92492a6ad27e781fb"
+  },
+  {
+    "category": "daily",
+    "date": "2026-10-13",
+    "title": "油价回升，科技弱于大盘",
+    "url": "https://pixie26.github.io/research-blog/articles/daily/2026-10-13/",
+    "revision": 1,
+    "body_sha256": "f8c5fdfbf819b3e431b66b6709e486c76e2b1140a3f140607e71e42607683e8d"
+  },
+  {
+    "category": "buy-side",
+    "date": "2026-10-12",
+    "title": "同样偏多股票，组合选择并不一致",
+    "url": "https://pixie26.github.io/research-blog/articles/buy-side/2026-10-12/",
+    "revision": 1,
+    "body_sha256": "69a81f41693f756e252d351ec345749b532a863de5ce04e14c2e4fab110efc6f"
+  },
+  {
+    "category": "daily",
+    "date": "2026-10-12",
+    "title": "反弹之后，仍需区分行业机会",
+    "url": "https://pixie26.github.io/research-blog/articles/daily/2026-10-12/",
+    "revision": 1,
+    "body_sha256": "8731412d161a86d9d359cb83206634cef6f5fe4aa33fe8ac369a5c4b3fb566a4"
+  },
+  {
+    "category": "sell-side",
+    "date": "2026-10-11",
+    "title": "JPM 研究精选：分市场看资金与衍生品",
+    "url": "https://pixie26.github.io/research-blog/articles/sell-side/2026-10-11/",
+    "revision": 1,
+    "body_sha256": "466d7c37fe3884a9a8993784dce623ad52ce3200c38b49da996167be940e7ba7"
+  },
+  {
+    "category": "weekly",
+    "date": "2026-10-11",
+    "title": "指数上涨，资金没有全面加风险",
+    "url": "https://pixie26.github.io/research-blog/articles/weekly/2026-10-11/",
+    "revision": 1,
+    "body_sha256": "11726da3eae4ba7d5f45cae270d24c54d3ecc0a8ac6a5dc791e8daca8534a56a"
+  }
+]

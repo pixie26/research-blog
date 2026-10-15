@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pixie26.github.io/research-blog/sitemap.xml
