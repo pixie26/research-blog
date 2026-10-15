@@ -14,7 +14,7 @@ root = Path(__file__).resolve().parents[1]
 out = root / 'docs'
 origin = 'https://pixie26.github.io/research-blog'
 base = '/research-blog/'
-allowed = {'.html', '.css', '.js', '.json', '.xml', '.txt', '.svg'}
+allowed = {'.html', '.css', '.js', '.json', '.xml', '.txt', '.svg', '.jpg', '.jpeg', '.png', '.webp'}
 files = sorted(source.rglob('*'))
 for f in files:
     if f.is_symlink(): raise SystemExit(f'Symlinks are not accepted: {f}')
@@ -33,6 +33,14 @@ articles = json.loads((source/'articles.json').read_text())
 if out.exists(): shutil.rmtree(out)
 for f in files:
     if not f.is_file(): continue
+    if f.suffix in {'.jpg', '.jpeg', '.png', '.webp'}:
+        data = f.read_bytes()
+        valid = ((f.suffix in {'.jpg', '.jpeg'} and data.startswith(b'\xff\xd8\xff')) or (f.suffix == '.png' and data.startswith(b'\x89PNG\r\n\x1a\n')) or (f.suffix == '.webp' and data[:4] == b'RIFF' and data[8:12] == b'WEBP'))
+        if not valid: raise SystemExit(f'Invalid raster signature: {f}')
+        dest = out/f.relative_to(source)
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        dest.write_bytes(data)
+        continue
     text = f.read_text(encoding='utf-8').replace(a.source_origin.rstrip('/'), origin)
     if f.suffix == '.html':
         text = re.sub(r'(\b(?:href|src|action)=[\"\'])/(?!/|research-blog/)', r'\1'+base, text)
