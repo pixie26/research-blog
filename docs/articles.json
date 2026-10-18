@@ -1,5 +1,14 @@
 [
   {
+    "category": "weekly",
+    "date": "2026-10-18",
+    "title": "市场周报｜2026年10月18日",
+    "url": "https://pixie26.github.io/research-blog/articles/weekly/2026-10-18/",
+    "revision": 1,
+    "publishedAt": "2026-10-18T04:33:27.783425+00:00",
+    "body_sha256": "5087da5b30aeec6a89234963eca76cfe65f9369ed507884d575398cb102fc6e1"
+  },
+  {
     "category": "sell-side",
     "date": "2026-10-16",
     "title": "JPM研究简报｜散户科技承接降温，SPX Gamma模型升级",
