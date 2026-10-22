@@ -1,5 +1,14 @@
 [
   {
+    "category": "daily",
+    "date": "2026-10-23",
+    "title": "市场早报｜科技逆转与股债背离",
+    "url": "https://pixie26.github.io/research-blog/articles/daily/2026-10-23/",
+    "revision": 1,
+    "publishedAt": "2026-10-22T23:54:01.421656+00:00",
+    "body_sha256": "add135708ee5b7fc5a6f60ee4b913c88026f8ec87666ef35d742b13569e1b74b"
+  },
+  {
     "category": "sell-side",
     "date": "2026-10-22",
     "title": "JPM卖方研究简报｜半导体去仓改善，资金流尚未确认触底",
