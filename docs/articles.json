@@ -1,5 +1,14 @@
 [
   {
+    "category": "weekly",
+    "date": "2026-11-08",
+    "title": "市场周报｜AI去杠杆与港股分化",
+    "url": "https://pixie26.github.io/research-blog/articles/weekly/2026-11-08/",
+    "revision": 1,
+    "publishedAt": "2026-11-08T04:06:18.683837+00:00",
+    "body_sha256": "fddd3b355237531088c9f6a06e13cc66f58f764e2c273b4d1c733869609ce832"
+  },
+  {
     "category": "sell-side",
     "date": "2026-11-06",
     "title": "Sell-side研究｜VT滞后减仓、CTA回补风险与亚洲波动率",
