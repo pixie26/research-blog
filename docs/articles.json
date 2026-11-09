@@ -1,5 +1,14 @@
 [
   {
+    "category": "daily",
+    "date": "2026-11-10",
+    "title": "市场早报｜11月10日",
+    "url": "https://pixie26.github.io/research-blog/articles/daily/2026-11-10/",
+    "revision": 1,
+    "publishedAt": "2026-11-09T23:46:44.533679+00:00",
+    "body_sha256": "998510b4c0be9f84ae7c5525b325fffcd7693cdd03b231d7ec719a4fb0fbe44d"
+  },
+  {
     "category": "sell-side",
     "date": "2026-11-09",
     "title": "卖方研究｜Gamma缓冲、NDX相对修复与亚太单股期权",
