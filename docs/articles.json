@@ -1,5 +1,14 @@
 [
   {
+    "category": "daily",
+    "date": "2026-11-11",
+    "title": "全球市场早报｜11月11日",
+    "url": "https://pixie26.github.io/research-blog/articles/daily/2026-11-11/",
+    "revision": 1,
+    "publishedAt": "2026-11-10T23:52:41.982655+00:00",
+    "body_sha256": "0f6c4fd7cdf80a8d86cceb90b4b359fb512e3ae4571beaa92a16aa191b958baa"
+  },
+  {
     "category": "sell-side",
     "date": "2026-11-10",
     "title": "卖方研究｜杠杆抄底、趋势去风险与财报波动分层",
