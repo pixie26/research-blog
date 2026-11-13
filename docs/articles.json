@@ -1,6 +1,33 @@
 [
   {
     "category": "sell-side",
+    "date": "2026-11-13",
+    "title": "科技去拥挤、散户回补与险资再平衡",
+    "url": "https://pixie26.github.io/research-blog/articles/sell-side/2026-11-13/",
+    "revision": 1,
+    "publishedAt": "2026-11-13T02:19:34.903261+00:00",
+    "body_sha256": "01baf19ad176fc785a88bd1c6067287a19fd6ab2fbe89950dc5cbf9dc4ad7413"
+  },
+  {
+    "category": "buy-side",
+    "date": "2026-11-13",
+    "title": "买方研究综合简报｜AI集中度、融资压力与日本治理",
+    "url": "https://pixie26.github.io/research-blog/articles/buy-side/2026-11-13/",
+    "revision": 1,
+    "publishedAt": "2026-11-13T06:08:59.100274+00:00",
+    "body_sha256": "776ddff7b6d064d9c62f0623250cf5fbdf3d5b6e6164a3075b3b2b43beec709b"
+  },
+  {
+    "category": "daily",
+    "date": "2026-11-13",
+    "title": "全球市场早报｜PPI前的利率与波动率重估",
+    "url": "https://pixie26.github.io/research-blog/articles/daily/2026-11-13/",
+    "revision": 1,
+    "publishedAt": "2026-11-12T23:47:50.808558+00:00",
+    "body_sha256": "b0ee45a8e75e667fd0ab70b8abc3eb8d64e61f1f3e935f97426d5d15e1a13ab7"
+  },
+  {
+    "category": "sell-side",
     "date": "2026-11-12",
     "title": "Sell-side研究简报｜散户承接、期权分化与中国银行税收风险",
     "url": "https://pixie26.github.io/research-blog/articles/sell-side/2026-11-12/",
