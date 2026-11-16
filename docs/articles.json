@@ -1,5 +1,14 @@
 [
   {
+    "category": "daily",
+    "date": "2026-11-17",
+    "title": "全球市场早报｜11月17日",
+    "url": "https://pixie26.github.io/research-blog/articles/daily/2026-11-17/",
+    "revision": 1,
+    "publishedAt": "2026-11-16T23:47:58.685235+00:00",
+    "body_sha256": "55f970f67740bc1716fab7ff35043facb5264ded74b2768fe30de17dba8f76f1"
+  },
+  {
     "category": "sell-side",
     "date": "2026-11-16",
     "title": "英伟达Gamma与结构Vega、亚洲期权分化及指数调整",
