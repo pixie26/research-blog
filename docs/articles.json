@@ -1,6 +1,33 @@
 [
   {
     "category": "daily",
+    "date": "2026-11-18",
+    "title": "全球市场早报｜11月18日",
+    "url": "https://pixie26.github.io/research-blog/articles/daily/2026-11-18/",
+    "revision": 1,
+    "publishedAt": "2026-11-18T00:41:07.141975+00:00",
+    "body_sha256": "0f472cabc538349918c12f85dc75afd0c0690bd18cf24e733a737448064f58cc"
+  },
+  {
+    "category": "sell-side",
+    "date": "2026-11-17",
+    "title": "卖方研究｜波动供给、分红与条件性回补",
+    "url": "https://pixie26.github.io/research-blog/articles/sell-side/2026-11-17/",
+    "revision": 2,
+    "publishedAt": "2026-11-18T00:38:45.715805+00:00",
+    "body_sha256": "01cc66b022a688a0234e810c00fecf8474dfd47a963642746d6ae4e3f92e70b3"
+  },
+  {
+    "category": "buy-side",
+    "date": "2026-11-17",
+    "title": "买方研究｜AI融资、财政压力与高质量久期",
+    "url": "https://pixie26.github.io/research-blog/articles/buy-side/2026-11-17/",
+    "revision": 1,
+    "publishedAt": "2026-11-18T00:41:07.141975+00:00",
+    "body_sha256": "908a088054180bdd7914871bbe9a9c334f97022bd792b64745d522b9402fc9bb"
+  },
+  {
+    "category": "daily",
     "date": "2026-11-17",
     "title": "全球市场早报｜11月17日",
     "url": "https://pixie26.github.io/research-blog/articles/daily/2026-11-17/",
