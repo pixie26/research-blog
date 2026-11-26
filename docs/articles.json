@@ -8,6 +8,15 @@
     "publishedAt": "2026-11-25T23:30:14Z"
   },
   {
+    "category": "buy-side",
+    "date": "2026-11-26",
+    "title": "买方研究简报｜11 月 26 日：AI 放缓先看交付与融资",
+    "url": "https://pixie26.github.io/research-blog/articles/buy-side/2026-11-26/",
+    "revision": 1,
+    "publishedAt": "2026-11-26T06:09:55.114231+00:00",
+    "body_sha256": "6c7101295af0ea921b3eb68eb58f7926650e1a999ee339bf6ac990c2fab32185"
+  },
+  {
     "category": "sell-side",
     "date": "2026-11-26",
     "title": "卖方研究简报｜11 月 26 日：2027 股指波动率的地区分化",
