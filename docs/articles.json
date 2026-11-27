@@ -1,5 +1,14 @@
 [
   {
+    "category": "buy-side",
+    "date": "2026-11-27",
+    "title": "买方研究简报｜11 月 27 日：新兴市场未必分散 AI 风险",
+    "url": "https://pixie26.github.io/research-blog/articles/buy-side/2026-11-27/",
+    "revision": 1,
+    "publishedAt": "2026-11-27T06:05:10.008538+00:00",
+    "body_sha256": "ca8b0501d9a51563db2dbd9d142af8c5ed886496983fe9d285e949b89e3904c1"
+  },
+  {
     "category": "sell-side",
     "date": "2026-11-27",
     "title": "Sell-side 研究简报｜2026年11月27日",
